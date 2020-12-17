@@ -1,4 +1,4 @@
-title: Dan Raloff's Development log
+title: Dan Raloff's Development Log
 description: >
   Here's where I write about what I'm learning for past and future me
 permalink: ':title/'
@@ -8,7 +8,7 @@ url: "https://komon.xyz" # the base hostname & protocol for your site, e.g. http
 # Author Settings
 author: Daniel Raloff
 author-img: daniel-raloff_100.jpg
-about-author: I am a developer currently @ Dark Horse Comics. Working in PHP and JS but anything goes on the weekends
+about-author: I am a developer currently @ KOAN. Working in Typescript but anything goes on the weekends
 social-twitter: draloff
 social-github: KOMON 
 social-linkedin: daniel-raloff
