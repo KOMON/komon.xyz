@@ -1,16 +1,16 @@
 title: Dan Raloff's Development Log
 description: >
   Here's where I write about what I'm learning for past and future me
-permalink: ':title/'
+permalink: ":title/"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://komon.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Daniel Raloff
 author-img: daniel-raloff_100.jpg
-about-author: I am a developer currently @ KOAN. Working in Typescript but anything goes on the weekends
+about-author: I am a Staff Engineer currently @ Fountain.
 social-twitter: draloff
-social-github: KOMON 
+social-github: KOMON
 social-linkedin: daniel-raloff
 social-email: dan@raloff.net
 
