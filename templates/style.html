@@ -20,7 +20,7 @@
   h6,
   strong,
   b {
-    color: #222;
+    color: #111;
   }
 
   a {
@@ -35,6 +35,12 @@
   .title span {
     font-weight: 400;
   }
+
+ @media (max-width: 510px) {
+   .title h2 {
+     font-size: 1.15rem;
+   }
+ }
 
   nav a {
     margin-right: 10px;
@@ -62,17 +68,19 @@
   }
 
   code {
+    color: #eee;
     padding: 2px 5px;
-    background-color: #222;
+    background-color: #111;
   }
 
   pre code {
-    color: #ddd;
+    color: #eee;
     display: block;
     padding: 20px;
     white-space: pre-wrap;
     font-size: 0.875rem;
     overflow-x: auto;
+    text-wrap: nowrap;
   }
 
   div.highlight pre {
@@ -87,7 +95,7 @@
 
   blockquote {
     border-left: 1px solid #999;
-    color: #222;
+    color: #111;
     padding-left: 20px;
     font-style: italic;
   }
@@ -139,7 +147,7 @@
     h6,
     strong,
     b {
-      color: #eee;
+      color: #ddd;
     }
 
     a {
